@@ -72,7 +72,7 @@ let squares = document.querySelectorAll(".square");
             {
                 // console.log("waldema")
                 // squares[square].setAttribute("style","animation-name: btnAnimacao;animation-direction: reverse;")
-                squares[square].innerHTML = `<img width="100px" height="111px" src="./Ot.png" alt="">`
+                squares[square].innerHTML = `<img " src="./Ot.png" alt="">`
             }
 
 
