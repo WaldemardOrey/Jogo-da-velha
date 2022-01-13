@@ -25,6 +25,11 @@ body{
     /*animation-direction: reverse;
      animation-name: btnAnimacao; */
 
+img
+{
+width:100px; height:111px;
+
+} 
 
 
 .square
@@ -181,6 +186,12 @@ span{
           height: 50px;
 
 }
+
+img
+{
+width:50px; height:61px;
+
+} 
 
 a{ font-size:.8rem}
 
